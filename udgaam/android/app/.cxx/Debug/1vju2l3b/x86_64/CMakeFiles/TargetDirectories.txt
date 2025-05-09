@@ -1,0 +1,2 @@
+/Users/adityadave/BTEP/udgaam/android/app/.cxx/Debug/1vju2l3b/x86_64/CMakeFiles/edit_cache.dir
+/Users/adityadave/BTEP/udgaam/android/app/.cxx/Debug/1vju2l3b/x86_64/CMakeFiles/rebuild_cache.dir

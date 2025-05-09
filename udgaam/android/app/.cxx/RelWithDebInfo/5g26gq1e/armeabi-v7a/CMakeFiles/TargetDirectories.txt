@@ -1,0 +1,2 @@
+/Users/adityadave/BTEP/Udgam/udgaam/android/app/.cxx/RelWithDebInfo/5g26gq1e/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/adityadave/BTEP/Udgam/udgaam/android/app/.cxx/RelWithDebInfo/5g26gq1e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
