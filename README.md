@@ -6,7 +6,8 @@
 Udgam is a community-driven marketplace designed to connect organic farmers directly with consumers. It empowers farmers by providing them a digital marketplace, fosters knowledge sharing through a community platform, and spreads awareness about the importance of organic farming via curated news and educational content.
 
 ## Video Presentation:
-[Watch Demo](Video_presentation.mp4)
+![Watch the demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/4TfzhjG4os4?si=4wyZaCEsnes4nqYa))
+
 
 ## 🎯 Problem Statement & Motivation
 
